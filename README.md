@@ -49,7 +49,7 @@ The **Carroll Tech and Innovation Council**, in partnership with the Carroll Cou
 
 | File | Description |
 |---|---|
-| `Risky_Business_Modified.pptx` | Rebuilt CTIC's flagship presentation — improved fonts, graphics, slide layout, and added new modules on safe online shopping, safe web browsing, and identifying online scams |
+| `Risky_Business_Modified.pptx` (link: https://docs.google.com/presentation/d/1GWnIQ7niETex7VXElqytnk3-TM97bA70-FjdjvvT5bg/edit?usp=sharing) | Rebuilt CTIC's flagship presentation — improved fonts, graphics, slide layout, and added new modules on safe online shopping, safe web browsing, and identifying online scams |
 | `Passwords_and_Authentication_Protecting_Your_Digital_Life.pptx` | Original presentation covering how passwords are stolen, signs of compromise, and 8 security practices including MFA, password managers, and phishing awareness |
 | `Top_10_Mobile_Safety_Tips.pptx` | Original presentation designed for seniors and general users covering device security, safe browsing, scam recognition, and privacy settings |
 | `Cybersecurity_Curriculum_Evaluation_and_Training_Enhancement_Project.pptx` | Capstone summary presentation delivered at Carroll Community College |
